@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JustCodeAndroidLayoutHW</string>
+
+    <string name="first_heading">My vehicle</string>
+    <string name="first_cont_heading">Audi e-tron Sportback</string>
+    <string name="km_left_num">262</string>
+    <string name="km_left_txt">kilometre left</string>
+    <string name="charged_percent">35%</string>
+    <string name="charged_txt">charged</string>
+
+    <string name="second_heading">Nearby Chargers</string>
+    <string name="location_txt">Netherlands, Amsterdam </string>
+    <string name="change_location"> <u>Change Location</u></string>
+
+    <string name="station_one_heading">ChargePoint Station 1</string>
+    <string name="station_one_address">street pulo 25</string>
+    <string name="station_location">Amsterdam, Netherlands </string>
+    <string name="station_one_available_ports">8 Ports Available</string>
+
+    <string name="station_two_heading">ChargePoint Station 2</string>
+    <string name="station_two_address">street srna 74</string>
+    <string name="station_two_available_ports">2 Ports Available</string>
+
+    <string name="station_three_heading">ChargePoint Station 3</string>
+    <string name="station_three_address">street adas 123 123</string>
+    <string name="station_three_available_ports">5 Ports Available</string>
+
+</resources>
